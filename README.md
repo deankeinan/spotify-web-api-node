@@ -1,3 +1,7 @@
+# Fork Note:
+
+This is a fork of the repo which is described below. I've made a couple changes to it just for the sake of a project I'm working on. 
+
 # Spotify Web API Node
 
 [![Tests](https://travis-ci.org/thelinmichael/spotify-web-api-node.svg?branch=master)](https://travis-ci.org/thelinmichael/spotify-web-api-node)
